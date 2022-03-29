@@ -46,8 +46,6 @@
 ||cst.cstwpush.com^
 ||cupidrecession.com^
 ||d.baresi.xyz^
-||d.baresi.xyz^
-||dateddeed.com^
 ||dateddeed.com^
 ||departurealtar.com^
 ||deshaici.net^
@@ -60,7 +58,6 @@
 ||dutorterraom.com^
 ||efully.info^
 ||envelopeheadache.com^
-||eu.rollmeout.xyz^
 ||eu.rollmeout.xyz^
 ||express-news.me^
 ||fadverdirect.com^
@@ -91,16 +88,13 @@
 ||inexorabledemocracycurly.com^
 ||in-page-push.com^
 ||intellipopup.com^
-||intellipopup.com^
 ||interst12.com^
 ||ir3.xyz^
 ||irkantyip.com^
 ||jeopardyloo.com^
 ||jollytestpartying.com^
 ||js.cabnnr.com^
-||js.cabnnr.com^
 ||js.gazo.space^
-||js.wpadmngr.com^
 ||js.wpadmngr.com^
 ||js.wpshsdk.com^
 ||kotikinar2ko8tiki09.com^
@@ -171,7 +165,6 @@
 ||soaheeme.net^
 ||specifypunkeventful.com^
 ||starvationdefence.com^
-||starvationdefence.com^
 ||static.bid-engine.com^
 ||static.heavy-r.com^
 ||stinkwailingbalk.com^
@@ -216,7 +209,6 @@
 ||www.heavy-r.com^
 ||www.hk-exclusive-51.com^
 ||www.intellipopup.com^
-||www.intellipopup.com^
 ||www.notamazgaming.com^
 ||www.profitabledisplaycontent.com^
 ||www.youngtube.club^
@@ -225,4 +217,5 @@
 ||yardperformedtraumatize.com^
 ||youngtube.club^
 ||zerodestructive.com^
+||slidecaffeinecrown.com^
 # Custom rulus - From Asus router AiProtection
